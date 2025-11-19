@@ -1,2 +1,4 @@
-# My-proect
-JavaScript проект
+# JavaScript проект
+- Генерация случайных чисел
+- Работа с датами
+- Примеры классов JavaScript
